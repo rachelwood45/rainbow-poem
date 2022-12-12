@@ -4,6 +4,7 @@ Purple
 Pink
 Orange
 Red
+adding indigo
 Blue
 
 Adding green
